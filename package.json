@@ -10,6 +10,8 @@
   "author": "gokul",
   "license": "ISC",
   "dependencies": {
+    "@turf/nearest-point": "^6.3.0",
+    "@turf/turf": "^6.3.0",
     "geo-nearby": "^2.0.1"
   }
 }
